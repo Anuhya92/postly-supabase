@@ -55,5 +55,4 @@ and CRUD operations using Next.js and Supabase.
 
 1. `npm install`
 2. Add Supabase project URL + anon key to `.env.local`
-3. Run `supabase/schema.sql`, then `supabase/migration_v2.sql`, in the Supabase SQL editor
-4. `npm run dev`
+3. `npm run dev`
